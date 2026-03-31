@@ -4,29 +4,43 @@
 
 -----------------------------
 
-## Part 1 – BFS
+## Part 1
 
-### Exercise 1
-- Path: `Makkah -> Jeddah -> Madinah`
-- Yes, it is the **shortest path** 
-
-📸  
-!scrrenshot1:
-(p1_1.png)
+### Screenshot 1:
+![ex1](screenshots/p1_1.png)
 
 ---------------------------------
 
-### Exercise 2
-- I added the city **Abha**
-- the path changed to: `Makkah -> Taif -> Abha`
-📸  
-![ex2](p1_2.png)
+### Screenshot 2:
 
----
+![ex2](screenshots/p1_2.png)
 
-## Part 2 – Knowledge
+------------------------------------
 
-### Exercise 3
-- **No**, the KB does not entail that Nora is guilty
-- Reason: there is no rule connecting **NoraHasKey** to **NoraIsGuilty**
-- Extra clue needed:
+### Screenshot 3:
+
+![ex3](screenshots/p1_3.png)
+
+------------------------------------
+------------------------------------
+
+## Part 2
+
+### Screenshot 1:
+
+![ex4](screenshots/p2_1.png)
+
+------------------------------------
+
+### Screenshot 2:
+
+![ex5](screenshots/p2_2.png)
+
+------------------------------------
+
+### Screenshot 3:
+
+![ex6](screenshots/p2_3.png)
+
+
+
